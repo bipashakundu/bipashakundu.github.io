@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergradute Courses (Digital Logic System, Electrical Circuit Analysis, Electronics II, Power Electronics)"
+venue: "University of Minnesota Duluth, Electrical Engineering"
+date: 2018-08-22
+location: "Minnesota, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
