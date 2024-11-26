@@ -12,11 +12,19 @@ I am a 3rd- year Ph.D. student in Imaging Science at Rochester Institute of Tech
 ## News ##
 
 [**Oct 2023**] Our paper, “Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images,” was accepted in SPIE Medical Imaging in 2025 for Oral Presentation.
+
 [**Oct 2023**] Our paper, “Comparative analysis of non-rigid registration techniques for liver surface registration,” was accepted in SPIE Medical Imaging in 2024.
+
 [**July 2023**] Passed Qualifying Exam.
+
 [**Aug 2022**] Started Ph.D. in Imaging Science, Rochester Institute of Technology.
+
 [**Aug 2021**] Started Ph.D. in Electrical Engineering, Texas Tech University.
+
 [**Aug 2018**] Started MS in Electrical Engineering, University of Minnesota Duluth.
+
 [**January 2018**] Joined Banglalink Digital Communications Ltd. as Power & Infrastructure Specialist.
+
 [**January 2016**] Joined Express Systems Ltd. as Pre-sales Engineer.
+
 [**July 2015**] Graduated (BSc in ECE) from Khulna University of Engineering & Technology.
