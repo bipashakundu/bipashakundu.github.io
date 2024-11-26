@@ -11,7 +11,7 @@ I am a 3rd- year Ph.D. student in Imaging Science at Rochester Institute of Tech
 
 ## News ##
 
-[**Oct 2023**] Our paper, “Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images,” was accepted in SPIE Medical Imaging in 2025 for Oral Presentation.
+[**Oct 2024**] Our paper, “Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images,” was accepted in SPIE Medical Imaging in 2025 for Oral Presentation.
 
 [**Oct 2023**] Our paper, “Comparative analysis of non-rigid registration techniques for liver surface registration,” was accepted in SPIE Medical Imaging in 2024.
 
