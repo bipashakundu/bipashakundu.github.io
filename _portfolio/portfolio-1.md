@@ -1,6 +1,7 @@
 ---
 title: "Research Projects"
-excerpt: "Short description of Research Project 1 item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Analysis of Non-rigid Registration Techniques 
+<br/><img src='/images/vis_2.JPG'>"
 collection: portfolio
 ---
 
