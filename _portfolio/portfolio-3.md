@@ -1,7 +1,7 @@
 ---
 title: "Title"
-excerpt: "A short description
-<br/><img src='/images/500x300.png'>"
+excerpt: "Exploring the performance and robustness  of Vision foundation models
+<br/><img src='/images/1.avif'>"
 collection: portfolio
 ---
 
