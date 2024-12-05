@@ -1,6 +1,6 @@
 ---
-title: "Title"
-excerpt: "Exploring the performance and robustness  of Vision foundation models
+title: "Exploring the performance and robustness  of Vision foundation models"
+excerpt: " Project description coming soon.
 <br/><img src='/images/1.avif'>"
 collection: portfolio
 ---
