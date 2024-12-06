@@ -1,9 +1,10 @@
 ---
 title: "Exploring the performance and robustness  of Vision foundation models"
-excerpt: " Project description coming soon.
+excerpt: " <br/><img src='/images/1.avif'>
 
 
-<br/><img src='/images/1.avif'>"
+Project description coming soon."
+
 collection: portfolio
 ---
 
