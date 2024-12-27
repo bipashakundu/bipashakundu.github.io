@@ -9,3 +9,4 @@ redirect_from:
 
 Here is my resume [here](/files/Bipasha_Kundu_resume.pdf){: .btn .btn--success}
 
+{: .notice--success}
