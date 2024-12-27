@@ -13,11 +13,11 @@ I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science 
 
 * Received Travel Award from RIT Women in science (WISe) program (December 2024)
 
-* Our paper, “Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images,” was accepted in SPIE Medical Imaging 2025 for Oral Presentation (October 2024)
+* Our paper, ** “Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images” ** was accepted in SPIE Medical Imaging 2025 for Oral Presentation (October 2024)
 
 * Our paper, “Comparative analysis of non-rigid registration techniques for liver surface registration,” was accepted in SPIE Medical Imaging, 2024 (October 2023)
 
-* *Passed Qualifying Exam (July 2023)
+* Passed Qualifying Exam (July 2023)
 
 * Started Ph.D. in Imaging Science, Rochester Institute of Technology (August 2022)
 
