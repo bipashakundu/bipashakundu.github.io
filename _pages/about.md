@@ -11,6 +11,8 @@ I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science 
 
 ## News ##
 
+- Attended SPIE Medical Imaging, 2025 to present our paper on **“Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images”**.
+
 - Received Travel Award from RIT **Women in science (WISe)** program (December 2024)
 
 - Our paper, **“Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images”** was accepted in SPIE Medical Imaging 2025 for Oral Presentation (October 2024)
