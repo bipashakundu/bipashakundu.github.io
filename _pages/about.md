@@ -8,9 +8,10 @@ redirect_from:
 ---
 I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science at Rochester Institute of Technology. I am a part-time Research Assistant at the **Biomedical Modeling, Visualization, and Image-guided Navigation (BiMVisIGN)** Lab. My current research interest focuses on Medical Image Analysis for Cardiac Applications using machine learning (ML) and deep learning (DL) algorithms. I completed my Master's in Electrical Engineering from the University of Minnesota Duluth, MN, USA, and my Bachelor's in Electronics and Communication Engineering at Khulna University of Engineering and Technology, Bangladesh.
 
-
 ## News ##
-- Our paper **“Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MRI Images”** was accepted in Functional Imaging and Modeling of the Heart (FIMH) 2025 (April 2024)
+
+- Our paper **“Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MRI Images”** was accepted in Functional Imaging and Modeling of the Heart (FIMH) 2025 (April 2025)
+
 - Attended SPIE Medical Imaging, 2025 to present our paper on **“Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images”**.
 
 - Received Travel Award from RIT **Women in science (WISe)** program (December 2024)
