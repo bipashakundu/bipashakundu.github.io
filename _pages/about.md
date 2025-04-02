@@ -10,7 +10,7 @@ I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science 
 
 
 ## News ##
-
+- Our paper **“Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MRI Images”** was accepted in Functional Imaging and Modeling of the Heart (FIMH) 2025 (April 2024)
 - Attended SPIE Medical Imaging, 2025 to present our paper on **“Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images”**.
 
 - Received Travel Award from RIT **Women in science (WISe)** program (December 2024)
