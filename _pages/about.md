@@ -10,6 +10,8 @@ I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science 
 
 ## News ##
 
+- Our paper **“Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MRI Images”** was accepted in EMBC 2025 (April 2025)
+
 - Our paper **“Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MRI Images”** was accepted in Functional Imaging and Modeling of the Heart (FIMH) 2025 (April 2025)
 
 - Attended SPIE Medical Imaging, 2025 to present our paper on **“Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images”**.
