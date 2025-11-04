@@ -9,6 +9,7 @@ redirect_from:
 I am a 3rd- year Ph.D. student at Chester F. Carlson Center for Imaging Science at Rochester Institute of Technology. I am a part-time Research Assistant at the **Biomedical Modeling, Visualization, and Image-guided Navigation (BiMVisIGN)** Lab. My current research interest focuses on Medical Image Analysis for Cardiac Applications using machine learning (ML) and deep learning (DL) algorithms. I completed my Master's in Electrical Engineering from the University of Minnesota Duluth, MN, USA, and my Bachelor's in Electronics and Communication Engineering at Khulna University of Engineering and Technology, Bangladesh.
 
 ## News ##
+- Our paper **“Motion-Guided Scar Detection from Static Left Atrial MRI via Deformable Registration to a Healthy Atlas"** was accepted in SPIE Medical Imaging 2025 for Oral Presentation (October 2025)
 
 - Our paper **“Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MR Images”** was accepted in EMBC 2025 (April 2025)
 
