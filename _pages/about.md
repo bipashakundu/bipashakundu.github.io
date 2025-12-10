@@ -10,6 +10,8 @@ I am a 4th year Ph.D. student in Imaging Science with a focus on Medical Image A
 
 ## News ##
 
+- Our paper **"Motion-Guided Scar Detection from Static Left Atrial MRI via Deformable Registration to a Healthy Atla"** was accepted in SPIE Medical Imaging 2026 for Oral Presentation (October 2025)
+
 - Our paper **“Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MR Images”** was accepted in EMBC 2025 (April 2025)
 
 - Our paper **“Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MR Images”** was accepted in Functional Imaging and Modeling of the Heart (FIMH) 2025 (April 2025)
