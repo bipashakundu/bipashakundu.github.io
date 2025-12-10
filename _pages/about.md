@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a 4th year Ph.D. student in Imaging Science with a focus on Medical Image Analysis using machine learning (ML) and deep learning (DL) algorithms. Currently, I am also a Research Assistant at BiMVisIGN Lab. I have experienced developing and fine- tuning deep learning for multi-modal medical images to improve automatic semantic and instance segmentation accuracy, and deformable registrations. I completed my MSEE from University of Minnesota Duluth, USA and undergrad from Khulna University of engineering & technology, Bangladesh.
 
-- Our paper **“Motion-Guided Scar Detection from Static Left Atrial MRI via Deformable Registration to a Healthy Atlas"** was accepted in SPIE Medical Imaging 2026 for Oral Presentation (October 2025)
 
 - Our paper **“Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MR Images”** was accepted in EMBC 2025 (April 2025)
 
