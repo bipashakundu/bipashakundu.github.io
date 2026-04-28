@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th year Ph.D. student in Imaging Science at Rochester Institute of Technology (RIT), working as a Research Assistant at the BiMVisIGN Lab. My research sits at the intersection of medical image analysis, deep learning, and computer vision, with a primary focus on cardiac MRI — specifically the left atrium (LA).
+I am a 4th year Ph.D. student in Imaging Science at Rochester Institute of Technology (RIT), working as a Research Assistant at the BiMVisIGN Lab. My research sits at the intersection of medical image analysis, deep learning, and computer vision, with a primary focus on cardiac MRI, specifically the left atrium (LA).
 My work spans automatic segmentation, deformable image registration, cardiac motion estimation, and vision-language model evaluation for clinically grounded image quality assessment. I am passionate about building robust, data-efficient deep learning pipelines that can directly support clinical decision-making — particularly for patients undergoing ablation therapy for atrial fibrillation (AF).
 
 Prior to RIT, I earned my M.S. in Electrical Engineering from the University of Minnesota Duluth and my B.S. in Electronics & Communication Engineering from Khulna University of Engineering & Technology, Bangladesh. I have also gained industry experience as a Pre-Sales Engineer and Power & Infrastructure Specialist at multinational telecommunications companies in Bangladesh.
