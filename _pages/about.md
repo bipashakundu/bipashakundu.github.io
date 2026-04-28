@@ -14,6 +14,19 @@ Prior to RIT, I earned my M.S. in Electrical Engineering from the University of 
 
 <!-- I am a 4th year Ph.D. student in Imaging Science with a focus on Medical Image Analysis using machine learning (ML) and deep learning (DL) algorithms. Currently, I am also a Research Assistant at BiMVisIGN Lab. I have experienced developing and fine- tuning deep learning for multi-modal medical images to improve automatic semantic and instance segmentation accuracy, and deformable registrations. I completed my MSEE from University of Minnesota Duluth, USA and undergrad from Khulna University of Engineering & Technology, Bangladesh. -->
 
+
+## Research ##
+The heart is one of the most complex and dynamic organs to image — and yet, accurate analysis of cardiac MRI is critical for millions of patients living with atrial fibrillation. My doctoral work is driven by a simple but ambitious question: how can we teach machines to see and understand the heart the way a skilled cardiologist does?
+
+I work at the intersection of deep learning, computer vision, and cardiac imaging, building computational tools that help clinicians plan and evaluate ablation therapy,  a procedure used to treat atrial fibrillation by deliberately creating small scars in heart tissue to disrupt abnormal electrical signals. Getting this right matters enormously: too little ablation leaves the arrhythmia untreated; too much damages healthy tissue. My research aims to give clinicians better, faster, and more reliable information at every stage of this process.
+
+
+A central challenge I tackle is the left atrium segmentation problem — precisely delineating the left atrium from LGE-MRI scans, which are notoriously difficult to interpret due to low contrast, imaging artifacts, and high variability across patients. I have explored how large-scale vision foundation models, including self-supervised Vision Transformers like DINOv2, can be adapted to this task without requiring massive amounts of labeled medical data. 
+
+A second thread of my research asks: can we infer what a heart is doing from a single static image? Through cardiac motion estimation, I developed a framework that extracts motion patterns of the left atrium across the cardiac cycle, using those patterns as a signal to detect and localize scar tissue — even from images that capture just one frozen moment in time. This work was recognized as an oral presentation at SPIE Medical Imaging 2026
+
+I have also worked on automated image quality assessment for LGE-MRI, recognizing that even the best segmentation model will fail if fed a poor-quality scan. By evaluating vision-language models for this task, I aim to create an early filter in the clinical pipeline that flags problematic acquisitions before they influence downstream analysis. I am currently exploring the integration of vision-language frameworks into the segmentation pipeline, with the goal of leveraging semantic and textual supervision to produce anatomically consistent, clinically interpretable delineations of the left atrium.
+
 ## News ##
 
 - Our paper **"A Two Stage Pipeline for Left Atrial Wall Constrained Scar Segmentation and Localization from LGE-MR Images"** was accepted in EMBC 2026 (April 2026)
