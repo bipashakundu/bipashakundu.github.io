@@ -10,6 +10,8 @@ I am a 4th year Ph.D. student in Imaging Science with a focus on Medical Image A
 
 ## News ##
 
+- Our paper **"A Two Stage Pipeline for Left Atrial Wall Constrained Scar Segmentation and Localization from LGE-MR Images"** was accepted in EMBC 2026 (April 2026)
+
 - Our paper **"Motion-Guided Scar Detection from Static Left Atrial MRI via Deformable Registration to a Healthy Atlas"** was accepted in SPIE Medical Imaging 2026 for Oral Presentation (October 2025)
 
 - Our paper **“Multi-Scale Feature Fusion with Image-Driven Spatial Integration for Left Atrium Segmentation from Cardiac MR Images”** was accepted in EMBC 2025 (April 2025)
