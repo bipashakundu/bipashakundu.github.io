@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/paper_5
 excerpt: ''
-date: 2021-06-01
+date: 2025-05-29
 venue: ' Functional Imaging and Modeling of the Heart (FIMH) '
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-94562-5_25'
