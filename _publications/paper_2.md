@@ -7,6 +7,6 @@ excerpt: ''
 date: 2024-04-01
 venue: 'SPIE MEdical Imaging'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://github.com/bipashakundu/bipashakundu.github.io/tree/master/files/paper_2.pdf'
 citation: 'Bipasha Kundu, Zixin Yang, Richard Simon, and Cristian A Linte. &quot;Comparative Analysis of Non-Rigid Registration Techniques for Liver Surface Registration.&quot; <i>SPIE Medical Imaging.'
 ---

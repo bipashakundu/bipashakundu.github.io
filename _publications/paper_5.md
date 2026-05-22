@@ -5,9 +5,11 @@ category: conferences
 permalink: /publication/paper_5
 excerpt: ''
 date: 2025-05-29
-venue: 'Functional Imaging and Modeling of the Heart (FIMH) '
+venue: 'Functional Imaging and Modeling of the Heart (FIMH)'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-94562-5_25'
+# paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-94562-5_25'
+paperurl: 'http://academicpages.github.io/files/paper_6.pdf'
+
 citation: 'citation: 'Bipasha Kundu, Bidur Khanal, Richard Simon, & Cristian A. Linte. &quot;Investigating the Domain Adaptability of General-Purpose Foundation Models for Left Atrium Segmentation from MR Images; <i>FIMH.'
 ---
 
