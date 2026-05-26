@@ -9,6 +9,8 @@ redirect_from:
 I am a 4th year Ph.D. student in [Imaging Science](https://www.rit.edu/science/chester-f-carlson-center-imaging-science) at Rochester Institute of Technology (RIT), working as a Research Assistant at the Biomedical Modeling, Visualization, and Image-Guided Navigation (BiMVisIGN) Lab under the supervision of [Dr. Cristian Linte](https://www.rit.edu/directory/calbme-cristian-linte). My research sits at the intersection of medical image analysis, deep learning, and computer vision, with a primary focus on cardiac MRI, specifically the left atrium (LA).
 My work spans automatic segmentation, deformable image registration, cardiac motion estimation, and vision-language model evaluation for clinically grounded image quality assessment. I am passionate about building robust, data-efficient deep learning pipelines that can directly support clinical decision-making — particularly for patients undergoing ablation therapy for atrial fibrillation (AF).
 
+I am actively seeking **internship or co-op opportunities** in medical AI, computer vision, or applied machine learning, where I can bring my deep learning expertise to real-world clinical or industry challenges. I am excited to collaborate across research and engineering teams to translate cutting-edge methods into impactful solutions.
+
 Prior to RIT, I earned my M.S. in Electrical Engineering from the [University of Minnesota Duluth](https://www.d.umn.edu/) and my B.S. in Electronics & Communication Engineering from [Khulna University of Engineering & Technology](https://www.kuet.ac.bd/), Bangladesh. I have also gained industry experience as a Pre-Sales Engineer and Power & Infrastructure Specialist at multinational telecommunications companies in Bangladesh.
 
 
