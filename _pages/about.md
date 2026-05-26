@@ -17,6 +17,16 @@ Prior to RIT, I earned my M.S. in Electrical Engineering from the [University of
 <!-- I am a 4th year Ph.D. student in Imaging Science with a focus on Medical Image Analysis using machine learning (ML) and deep learning (DL) algorithms. Currently, I am also a Research Assistant at BiMVisIGN Lab. I have experienced developing and fine- tuning deep learning for multi-modal medical images to improve automatic semantic and instance segmentation accuracy, and deformable registrations. I completed my MSEE from University of Minnesota Duluth, USA and undergrad from Khulna University of Engineering & Technology, Bangladesh. -->
 
 
+## Technical Skills ##
+
+| | |
+|---|---|
+| **Languages** | Python, MATLAB, C, R, SQL |
+| **Frameworks & Libraries** | PyTorch, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, OpenCV, SimpleITK, Matplotlib |
+| **Medical Imaging Tools** | 3D Slicer, ITK-Snap, ParaView, MONAI, CUDA |
+| **Dev & Visualization** | Git, VS Code, PyCharm, Spyder, Weights & Biases, Grad-CAM, Tableau |
+| **OS & Platforms** | Linux, Windows, HPC/GPU clusters |
+
 ## Research ##
 The heart is one of the most complex and dynamic organs to image — and yet, accurate analysis of cardiac MRI is critical for millions of patients living with atrial fibrillation. My doctoral work is driven by a simple but ambitious question: how can we teach machines to see and understand the heart the way a skilled cardiologist does?
 
