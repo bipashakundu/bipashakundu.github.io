@@ -41,6 +41,8 @@ I have also worked on automated image quality assessment for LGE-MRI, recognizin
 
 ## News ##
 
+- Our paper **"Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning"** was accepted in MIUA 2026 (June 2026)
+
 - Our paper **"A Two Stage Pipeline for Left Atrial Wall Constrained Scar Segmentation and Localization from LGE-MR Images"** was accepted in EMBC 2026 (April 2026)
 
 - Our paper **"Motion-Guided Scar Detection from Static Left Atrial MRI via Deformable Registration to a Healthy Atlas"** was accepted in SPIE Medical Imaging 2026 for Oral Presentation (October 2025)
