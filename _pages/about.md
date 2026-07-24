@@ -41,6 +41,8 @@ I have also worked on automated image quality assessment for LGE-MRI, recognizin
 
 ## News ##
 
+- Our paper **"Parameter-Efficient Adaptation of SAM3 for Left Atrium Segmentation from Cardiac MR Images"** was accepted in MICCAI Workshop 2026 (July 2026)
+
 - Our paper **"Toward Vision Language Model-based Assessment of Clinical Quality and Usability of LGE-MR Images for Cardiac Ablation Planning"** was accepted in MIUA 2026 (June 2026)
 
 - Our paper **"A Two Stage Pipeline for Left Atrial Wall Constrained Scar Segmentation and Localization from LGE-MR Images"** was accepted in EMBC 2026 (April 2026)
